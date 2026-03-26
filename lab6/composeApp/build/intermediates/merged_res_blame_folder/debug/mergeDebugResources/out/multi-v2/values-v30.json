@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.myapplication.composeApp-mergeDebugResources-35:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sdzim\\.gradle\\caches\\8.14.3\\transforms\\7757f1f2349f95163402ecee6b51af58\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
